@@ -11,3 +11,7 @@ As a frontend developer, I love turning ideas into interactive and visually appe
 - React.js, Next.js
 - Bootstrap, Tailwind CSS
 - Git, GitHub
+
+## 🌍 Projects
+- [Tarvel blog (Next.js, Typescript, TailwindCSS, Sanity.io)](https://www.carmiaround.com/)
+- [Restaurant landing page (Next.js, Typescript, TailwindCSS, Cal.com)](https://culinary-heaven.vercel.app/)
