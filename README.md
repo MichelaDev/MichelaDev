@@ -14,5 +14,6 @@ As a frontend developer, I love turning ideas into interactive and visually appe
 
 ## 🌍 Projects
 - [Expense Tracker (Next.js, Typescript, TailwindCSS, Supabase, Chart.js)](https://expense-tracker-mg.vercel.app/)
+- [Tetris (React.js, Typescript, Zustand, SCSS)](https://tetris-react-omega.vercel.app/)
 - [Travel blog (Next.js, Typescript, TailwindCSS, Sanity.io)](https://www.carmiaround.com/)
 - [Restaurant landing page (Next.js, Typescript, TailwindCSS, Cal.com)](https://culinary-heaven.vercel.app/)
