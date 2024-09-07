@@ -9,7 +9,8 @@ As a frontend developer, I love turning ideas into interactive and visually appe
 
 - HTML5, CSS3, JavaScript, Typescript
 - React.js, Next.js
-- Bootstrap, Tailwind CSS
+- Redux toolkit, Zustand, D3.js, Leaflet.js, Chart.js
+- Bootstrap, Tailwind CSS, SCSS
 - Git, GitHub
 
 ## 🌍 Projects
